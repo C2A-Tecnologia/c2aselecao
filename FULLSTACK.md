@@ -2,13 +2,15 @@
 
 -Cursar ou ter cursado ensino superior em áreas da T.I;
 
--Experiência profissional ou pessoal com banco de dados como: MongoDB, Mysql,
+-Experiência profissional com banco de dados como: MongoDB, Mysql, PostgreSQL, SQL Server ...;
 
-PostgreSQL, SQL Server ...;
-
--Experiência profissional ou pessoal com alguma das seguintes linguagens: Javascript, C# ou Java.
+-Experiência profissional com alguma das seguintes linguagens: Javascript, C# ou Java;
 
 -Experiência com Angular ou React;
+
+-Domínio de metodologia e aplicação API Rest;
+
+-Domínio das metologias de microserviços.
 
 # Desejável:
 
