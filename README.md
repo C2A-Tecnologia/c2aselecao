@@ -27,7 +27,7 @@ Temos um projeto de aplicativo web para ser desenvolvido o MVP.
     Temporário com possibilidade de efetivação (CLT ou PJ).
 
 ## Carga horária: 
-   home-office horários à combinar
+    home-office, horário à combinar
 
 ## Remuneração: 
     Enviar pretensão salarial.
