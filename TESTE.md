@@ -66,7 +66,7 @@ Fica livre para você criar a modelagem que ache necessária para a tarefa bem c
 
 #### Qual o modelo da interface visual?
 Pode ser utilizado qualquer modelo de sua preferência, esse teste não é direcionado para o implementação da UI,
-porém uma interface com bem estruturada diz muito sobre seu conhecimento. 
+porém uma interface bem estruturada diz muito sobre seu conhecimento. 
 
 #### Posso utilizar frameworks/bibliotecas?
 Sim. 
