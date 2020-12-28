@@ -35,5 +35,5 @@ Temos um projeto de aplicativo web para ser desenvolvido o MVP.
 ## Horário: 
     a combinar.
 
-#Enviar currículo para:
+# Enviar currículo para:
     caioarruda@gmail.com ou whatsapp: [+55 85 996945708 link](https://api.whatsapp.com/send?phone=5585996945708)
