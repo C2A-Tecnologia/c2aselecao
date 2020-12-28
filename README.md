@@ -12,5 +12,7 @@ Repositório com os descritivos para as vagas disponíveis.
 
 [Descrição da Vaga](https://github.com/caioarruda/c2aselecao/blob/main/FULLSTACK.md)
 
+[Teste de Seleção](https://github.com/caioarruda/c2aselecao/blob/main/TESTE.md)
+
 # Contato ou envio de currículos:
 caioarruda@gmail.com ou whatsapp: [+55 85 996945708 link](https://api.whatsapp.com/send?phone=5585996945708)
