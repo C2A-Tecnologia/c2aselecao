@@ -1,4 +1,4 @@
-## Teste de Seleção - Backend Developer - C2A
+## Teste de Seleção - Fullstack Developer - C2A
 
 O objetivo deste desafio é avaliar seu domínio no desenvolvimento backend: organização, estilo e boas práticas com código, criação de APIs, conhecimento nas tecnologias e estruturas.
 
@@ -8,12 +8,12 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 
 - **Nome do Projeto:** MeuRestauranteC2A
 - **Objetivo do Projeto:** Criar um Aplicativo para realizar pedidos integrado com uma API.
-- **Tecnologias:** Reactjs e NodeJS.
+- **Tecnologias:** Front: Reactjs(vue, next ...),Angular | Back: NodeJS.
 - **User Interface:** Modelo de sua preferência.
 - **Entregáveis:** siga as instruções abaixo:
   - Título: [Backend Developer] Seu nome
   - Crie um repositório público para esse projeto e envie link.
-  - Envie para caioarruda@gmail.com
+  - Envie para contato@c2atec.com
 
 ---
 ## **Desafio**
@@ -23,6 +23,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 - API deve monitorar o status da mesa(Aberta ou Fechada).
 - API deve poder mudar o status do pedido (em produção ou Entregue).
 - API deve impedir a criação de uma mesa já aberta anteriormente.
+OBS: produtos poderão ser mockados em hardcode ou no banco.
 
 >### **Aplicativo**
 - Tela incial do app:
@@ -72,17 +73,17 @@ porém uma interface bem estruturada diz muito sobre seu conhecimento.
 Sim. 
 >**Ex.:** Styled-componentes, Express, React Native Paper e etc..
 
-#### React, Flutter, Angular ou Vue?
-Você precisa implementar em React/React Native e NodeJS.
+#### React, Angular ou Vue?
+Você poderá implementar em qualquer framework com base React/React Native(vue, next e etc) ou Angular.
 
 #### Banco de dados?
-MySQL
+QUalquer um
 
 #### Preciso colocar alguma aplicação em produção?
-Seria interessante disponibilizar o link para o teste da aplicação e API.
+Não é obrigatório, mas é um diferencial.
 
 #### Quanto tempo eu tenho ?
-O tempo que você precisar, mas a maioria dos candidatos termina esse teste entre 3 a 5 dias. 
+O tempo que você precisar, mas a maioria dos candidatos termina esse teste entre 1 a 2 dias. 
 
 ## Boa Sorte!
 Sinta-se à vontade para fazer qualquer pergunta durante o desenvolvimento.
