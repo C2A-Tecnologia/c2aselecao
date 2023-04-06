@@ -1,17 +1,25 @@
 # Requisitos:
 
 -Cursar ou ter cursado ensino superior em áreas da T.I;
+
 -Experiência profissional com banco de dados como: MongoDB, Mysql, PostgreSQL, SQL Server ...;
+
 -Experiência profissional com alguma das seguintes linguagens: Javascript, C# ou Java;
+
 -Experiência com Angular ou React;
+
 -Domínio de metodologia e aplicação API Rest;
--Domínio das metologias de microserviços.
--Conhecimento para Dockerizar uma aplicação
+
+-Domínio das metologias de microserviços;
+
+-Conhecimento para Dockerizar uma aplicação;
+
 -Dominar git e algum modelo de GitFlow;
 
 # Desejável:
 
--Portifólio de projetos para avaliação em repositório Git, ex.: github ou gitlab;
+-Portifólio de projetos para avaliação em repositório Git, ex.: github, gitlab e etc;
+
 -Criatividade para propor soluções e auxiliar na tomada de decisões.
 
 # Conhecimentos que destacam:
@@ -31,7 +39,7 @@ Temos um projeto de aplicativo web para ser desenvolvido o MVP.
     Temporário com possibilidade de efetivação (CLT ou PJ).
 
 ## Carga horária: 
-    home-office, horário à combinar
+    home-office ou híbrido, horário à combinar
 
 ## Remuneração: 
     Enviar pretensão salarial.
